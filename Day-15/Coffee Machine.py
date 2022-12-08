@@ -20,7 +20,7 @@ def coffee_machine(user_input):
             empty_items.append("water")
         if coffee < user_required_coffee:
             empty_items.append("coffee")
-        return empty_items  
+        return empty_items
 
     def transaction(quarters, dimes, nickels, pennies):
         quarters *= 25
@@ -50,12 +50,11 @@ def coffee_machine(user_input):
             d = int(input("How many dimes?: "))
             n = int(input("How many nickles?: "))
             p = int(input("How many pennies?: "))
-            x = transaction(q, d, n, p)
-            if x  != "Sorry, that's not enough money. Money refunded.":
-                milk -= user_required_milk
-                coffee -= user_required_coffee
-                water -= user_required_water
-                cost += coffee_cost
+            transaction(q, d, n, p)
+            milk -= user_required_milk
+            coffee -= user_required_coffee
+            water -= user_required_water
+            cost += coffee_cost
 
     elif user_input == "report":
         print(f"Water: {water}ml\nMilk: {milk}ml")
