@@ -14,10 +14,10 @@ COMPANY_NAME = "Tesla Inc"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 
-STOCK_API = "XO7R4IZ43NZDWDV7"
-NEWS_API = "83ace640242a42a3a5d4d29d120b6c6b"
-TWILIO_SID = "AC8e2f108bf91834f5503f73c813929875"
-TWILIO_AUTH_TOKEN = "60eee7077845c856491eda1345152994"
+STOCK_API = "***********************"
+NEWS_API = "***********************"
+TWILIO_SID = "***********************"
+TWILIO_AUTH_TOKEN = "***********************"
 
 stock_parameters = {"function": "TIME_SERIES_DAILY_ADJUSTED", "symbol": STOCK_NAME, "apikey": STOCK_API}
 stock_response = get(url=STOCK_ENDPOINT, params=stock_parameters)
