@@ -1,24 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a499b5ff-ac9a-43fd-9fe6-ddf22d312bc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/Day-35.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day-35/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Day-36.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Day-33/iss_overhead_notifier/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +27,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/asus/Desktop/repos/100_days_of_python/Day-36/stock-news-hard-start/main.py",
+    "last_opened_file_path": "C:/Users/asus/Desktop/repos/100_days_of_python/Day-37",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
