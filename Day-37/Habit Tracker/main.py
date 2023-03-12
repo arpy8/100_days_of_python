@@ -1,9 +1,11 @@
+import os
+
 import requests
 from datetime import datetime
 
-USERNAME = "*********************"
-TOKEN = "*********************"
-GRAPH_ID = "*********************"
+USERNAME = os.getenv("PIXELA_USERNAME")
+TOKEN = os.getenv("PIXELA_TOKEN")
+GRAPH_ID = "graph2"
 
 pixela_endpoint = "https://pixe.la/v1/users"
 
@@ -13,16 +15,17 @@ user_params = {
     "agreeTermsOfService": "yes",
     "notMinor": "yes",
 }
+print(USERNAME)
 
-graph_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs"
-
-graph_config = {
-    "id": GRAPH_ID,
-    "name": "Tredmill Graph",
-    "unit": "Km",
-    "type": "float",
-    "color": "ajisai"
-}
+# graph_endpoint = f"{pixela_endpoint}/{USERNAME}/graphs"
+#
+# graph_config = {
+#     "id": GRAPH_ID,
+#     "name": "Tredmill Graph",
+#     "unit": "Km",
+#     "type": "float",
+#     "color": "ajisai"
+# }
 
 headers = {
     "X-USER-TOKEN": TOKEN
