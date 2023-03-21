@@ -1,0 +1,16 @@
+h1 {color : red;
+background-color: lightcoral;}
+
+.broccoli {
+    background-color: green;
+    height: 110px;
+}
+.bacon {
+    background-color: red;    
+}
+img {
+    border-radius: 20%;
+}
+img:hover {
+    background-color: aqua; 
+}
