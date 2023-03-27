@@ -17,7 +17,6 @@ Throughout this challenge, I will cover a range of Python topics, including:
         <li>Object-oriented programming</li>
         <li>Basic Web development</li>
         <li>Data analysis with Pandas and NumPy</li>
-        <li>Data analysis with Pandas and NumPy</li>
         <li>Machine learning with Scikit-learn</li>
     </ul>
 
