@@ -34,14 +34,14 @@ def save():
 
     else:
         try:
-            with open("Day-30\Password Manager\data.json", "r") as data_file:
+            with open("data/data.json", "r") as data_file:
                 data = json.load(data_file)
         except FileNotFoundError:
-            with open("Day-30\Password Manager\data.json", "w") as data_file:
+            with open("data/data.json", "w") as data_file:
                 json.dump(new_data, data_file, indent=4)
         else:
             data.update(new_data)
-            with open("Day-30\Password Manager\data.json", "w") as data_file:
+            with open("data/data.json", "w") as data_file:
                 json.dump(data, data_file, indent=4)
         finally:
                 website_entry.delete(0, END)
@@ -52,7 +52,7 @@ def save():
 def find_password():
     website = website_entry.get()
     try:
-        with open("Day-30\Password Manager\data.json", "r") as data_file:
+        with open("data\data.json", "r") as data_file:
             data = json.load(data_file)
 
     except FileNotFoundError:
@@ -60,6 +60,7 @@ def find_password():
 
     else:
         if website in data:
+
             email = data[website]["email"]
             password = data[website]["password"]
             messagebox.showinfo(title=website, message= f"email : {email}\npassword : {password}")
@@ -71,38 +72,40 @@ def find_password():
 # ---------------------------- UI SETUP ------------------------------- #
 
 root = Tk()
-root.title("Password Manager")
-root.config(padx=20, pady=20)
+root.title("SecureVault")
+root.config(padx=20, pady=20, background="#F3DEBA")
 root.resizable(False,False)
+root.wm_attributes('-toolwindow', 'True')
 
-canvas = Canvas(height=200, width=200)
-logo_img = PhotoImage(file = "C:/Users/asus/Desktop/repos/100_days_of_python/Day-29/logo.png")
+canvas = Canvas(height=200, width=200, bd=0)
+canvas.config(bg="#F3DEBA", highlightthickness=0)
+logo_img = PhotoImage(file = "assets/logo.png")
 canvas.create_image(120,90,image = logo_img)
 canvas.grid(row=0,column=1)
 
 #Labels
-website_label = Label(text="Website:")
+website_label = Label(text="Website:",bg="#F3DEBA", fg="#675D50")
 website_label.grid(row=1,column=0)
-email_label = Label(text="Email/Username:")
+email_label = Label(text="Email/Username:",bg="#F3DEBA", fg="#675D50")
 email_label.grid(row=2,column=0)
-pswrd_label = Label(text="Password:")
+pswrd_label = Label(text="Password:",bg="#F3DEBA", fg="#675D50")
 pswrd_label.grid(row=3,column=0)
 
 #Entries
-website_entry = Entry(width=34)
+website_entry = Entry(width=34, bg="#FDF7C3", fg="#000000")
 website_entry.focus()
 website_entry.grid(row=1,column=1)
-email_entry = Entry(width=53)
+email_entry = Entry(width=53, bg="#FDF7C3", fg="#000000")
 email_entry.insert(0, "arpitsengar99@gmail.com")
 email_entry.grid(row=2,column=1, columnspan=2)
-pswrd_entry = Entry(width=34)
+pswrd_entry = Entry(width=34, bg="#FDF7C3", fg="#000000")
 pswrd_entry.grid(row=3,column=1, sticky="nsew")
 
 #Buttons
-search_button = Button(text = "Search", relief=RAISED, command=find_password, borderwidth=0.5)
+search_button = Button(text = "Search", relief=RAISED, command=find_password, borderwidth=0.5, bg="#FFD966")
 search_button.grid(row=1,column=2, sticky="nsew")
-generate_button = Button(text = "Generate Password", relief=RAISED, command=password_generator, borderwidth=0.5)
+generate_button = Button(text = "Generate Password", relief=RAISED, command=password_generator, borderwidth=0.5, bg="#FFD966")
 generate_button.grid(row=3,column=2, sticky="nsew")
-add_button = Button(text = "Add", width=45, relief=RAISED, command=save, borderwidth=0.5)
+add_button = Button(text = "Add", width=45, relief=RAISED, command=save, borderwidth=0.5, bg="#FFD966")
 add_button.grid(row=4,column=1, columnspan=2)
 root.mainloop() 
