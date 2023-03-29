@@ -63,7 +63,6 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 033](Days-31-to-40/Day-33): Iss Overhead Notifier
 - :white_check_mark: [Day 034](Days-31-to-40/Day-34): Quizler App
 - :white_check_mark: [Day 035](Days-31-to-40/Day-35): Daily Rain Checker
-- :white_check_mark: [Day 035](Days-31-to-40/Day-35): Daily Rain Checker
 - :white_check_mark: [Day 036](Days-31-to-40/Day-36): Stock Trading News Alert app
 - :white_check_mark: [Day 037](Days-31-to-40/Day-37): Habit Tracker
 - :white_check_mark: [Day 038](Days-31-to-40/Day-38): Excercise Tracker
