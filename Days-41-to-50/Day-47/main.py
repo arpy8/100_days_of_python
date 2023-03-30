@@ -1,49 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
-import smtplib
-import os
 
-URL = "https://www.amazon.in/Samsung-Galaxy-Cloud-128GB-Storage/dp/B08VB57558?ref_=Oct_DLandingS_D_38b39bc2_60"
-MY_EMAIL = "arpitsengar99@gmail.com"
-MY_PASSWORD = os.getenv("GMAIL_PASS")
-PARAMS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) "
+
+URL = "https://www.amazon.in/JBL-C100SI-Ear-Headphones-Black/dp/B01DEWVZ2C/ref=sr_1_2?_encoding=UTF8&_ref" \
+      "=dlx_gate_sd_dcl_tlt_cb66d3f1_dt&content-id=amzn1.sym.a532052b-26f3-4811-a261-3b35ffa57237&m=A14CZOWI0VEHLG" \
+      "&pd_rd_r=9620d2aa-2261-4686-9c97-c3e526eb467a&pd_rd_w=EGp2R&pd_rd_wg=Zpgmg&pf_rd_p=a532052b-26f3-4811-a261" \
+      "-3b35ffa57237&pf_rd_r=7NZ754F1MRCNQHCEZD88&refinements=p_6%3AA14CZOWI0VEHLG&sr=8-2"
+
+# enter_url = input("URL: ")
+
+params = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) "
                         "Chrome/111.0.0.0 Safari/537.36", "Accept-Language": "en-US,en;q=0.8"}
 
-response = requests.get(url=URL, headers=PARAMS)
+response = requests.get(url=URL, headers=params)
 
 soup = BeautifulSoup(response.text, "html.parser")
+my_list =[]
 
-price = []
-product_title = ""
+for price in soup.find(class_="priceToPay"):
+    my_list += price
 
-try:
-    for i in soup.find(class_="priceToPay"):
-        price += i
-    product_price = int(price[0][1:])
-
-except ValueError:
-    product_price = int(str(price[0]).replace(",", "")[1:])
-
-for title in soup.find(id="productTitle"):
-    product_title = title.strip()
-
-user_price = 60000
-
-# email part
-
-message = f"""Subject:Alert, Lower price on {product_title.split()[0]}
-
-
-{product_title} is now available for just {product_price} rupees.
-You can consider buying it right now.
-Here\'s the link
-{URL}"""
-
-if user_price >= product_price:
-    with smtplib.SMTP("smtp.gmail.com") as connection:
-        connection.starttls()
-        connection.login(MY_EMAIL, MY_PASSWORD)
-        connection.sendmail(
-            from_addr=MY_EMAIL,
-            to_addrs=MY_EMAIL,
-            msg=message)
+item_price = my_list[0]
+print(item_price)
