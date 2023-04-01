@@ -60,7 +60,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 029](Days-22-to-30/Day-29): Password Manager App
 - :white_check_mark: [Day 030](Days-22-to-30/Day-30): Password Manager App (continued)
 - :white_check_mark: [Day 031](Days-31-40/Day-31): Flash Card Capstone Project
-- :white_check_mark: [Day 031](Days-31-to-40/Day-32): Email SMTP 
+- :white_check_mark: [Day 032](Days-31-to-40/Day-32): Automated Birthday Wisher 
 - :white_check_mark: [Day 033](Days-31-to-40/Day-33): Iss Overhead Notifier
 - :white_check_mark: [Day 034](Days-31-to-40/Day-34): Quizler App
 - :white_check_mark: [Day 035](Days-31-to-40/Day-35): Daily Rain Checker
@@ -76,6 +76,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 045](Days-41-to-50/Day-45): Web Scraping from live website
 - :white_check_mark: [Day 046](Days-41-to-50/Day-46): Music time machine
 - :white_check_mark: [Day 047](Days-41-to-50/Day-47): Amazon Price Tracker
+- :white_check_mark: [Day 048](Days-41-to-50/Day-48): Cookie Clicker Project
+- :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn 
 
 
 # Contact <br>
