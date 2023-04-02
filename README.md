@@ -78,7 +78,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 047](Days-41-to-50/Day-47): Amazon Price Tracker
 - :white_check_mark: [Day 048](Days-41-to-50/Day-48): Cookie Clicker Project
 - :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn 
-- :white_check_mark: [Day 049](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
+- :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
+- :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
 
 
 # Contact <br>
