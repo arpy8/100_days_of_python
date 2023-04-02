@@ -28,20 +28,20 @@ Alternatively, you can simply follow along with my progress by browsing the code
 <br>
 
 ## 👨🏻‍🎓 Beginner
-- :white_check_mark: [Day 001](Days%201-10/Day-1): Band Name Generator 
-- :white_check_mark: [Day 002](Days%201-10/Day-2): Tip Calculator
-- :white_check_mark: [Day 003](Days%201-10/Day-3): Treasure Island
-- :white_check_mark: [Day 004](Days%201-10/Day-4): Rock, Paper, Scissors Game
-- :white_check_mark: [Day 005](Days%201-10/Day-5): Random Password Generator
-- :white_check_mark: [Day 005](Days%201-10/Day-6): Completed the maze challenge on [Reeborg's World](https://reeborg.ca/index_en.html)
-- :white_check_mark: [Day 007](Days%201-10/Day-7): Hangman Game
-- :white_check_mark: [Day 008](Days%201-10/Day-8): Caesar Cipher
-- :white_check_mark: [Day 009](Days%201-10/Day-9): Blind Auction
-- :white_check_mark: [Day 010](Days%201-10/Day-10): Calculator
-- :white_check_mark: [Day 011](Days%2011-21/Day-11): Blackjack Capstone Project
-- :white_check_mark: [Day 012](Days%2011-21/Day-12): Number Guessing Game
-- :white_check_mark: [Day 013](Days%2011-21/Day-13): Debug exercises
-- :white_check_mark: [Day 014](Days%2011-21/Day-14): Higher Lower Game
+- :white_check_mark: [Day 001](Days-1-to-10/Day-1): Band Name Generator 
+- :white_check_mark: [Day 002](Days-1-to-10/Day-2): Tip Calculator
+- :white_check_mark: [Day 003](Days-1-to-10/Day-3): Treasure Island
+- :white_check_mark: [Day 004](Days-1-to-10/Day-4): Rock, Paper, Scissors Game
+- :white_check_mark: [Day 005](Days-1-to-10/Day-5): Random Password Generator
+- :white_check_mark: [Day 005](Days-1-to-10/Day-6): Completed the maze challenge on [Reeborg's World](https://reeborg.ca/index_en.html)
+- :white_check_mark: [Day 007](Days-1-to-10/Day-7): Hangman Game
+- :white_check_mark: [Day 008](Days-1-to-10/Day-8): Caesar Cipher
+- :white_check_mark: [Day 009](Days-1-to-10/Day-9): Blind Auction
+- :white_check_mark: [Day 010](Days-1-to-10/Day-10): Calculator
+- :white_check_mark: [Day 011](Days-11-to-21/Day-11): Blackjack Capstone Project
+- :white_check_mark: [Day 012](Days-11-to-21/Day-12): Number Guessing Game
+- :white_check_mark: [Day 013](Days-11-to-21/Day-13): Debug exercises
+- :white_check_mark: [Day 014](Days-11-to-21/Day-14): Higher Lower Game
 
 ## 🏋🏻‍♂ Intermediate
 - :white_check_mark: [Day 015](Days-11-to-21/Day-15): Coffee Machine
@@ -59,7 +59,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 028](Days-22-to-30/Day-28): Pomodoro App
 - :white_check_mark: [Day 029](Days-22-to-30/Day-29): Password Manager App
 - :white_check_mark: [Day 030](Days-22-to-30/Day-30): Password Manager App (continued)
-- :white_check_mark: [Day 031](Days-31-40/Day-31): Flash Card Capstone Project
+- :white_check_mark: [Day 031](Days-31-to-40/Day-31): Flash Card Capstone Project
 - :white_check_mark: [Day 032](Days-31-to-40/Day-32): Automated Birthday Wisher 
 - :white_check_mark: [Day 033](Days-31-to-40/Day-33): Iss Overhead Notifier
 - :white_check_mark: [Day 034](Days-31-to-40/Day-34): Quizler App
@@ -80,6 +80,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn 
 - :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
 - :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
+- :white_check_mark: [Day 052](Days-51-to-60/Day-52): Github Follower Bot
 
 
 # Contact <br>

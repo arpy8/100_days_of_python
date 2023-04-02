@@ -1,0 +1,13 @@
+from bot import GithubFollower
+import os
+
+CHROME_DRIVER_PATH = r"C:\Users\asus\Documents\assets\chromedriver.exe"
+
+USERNAME = "arpitsengar99"  # CHANGE THIS TO YOUR OWN USERNAME
+PASSWORD = os.getenv("PASSWORD")  # CHANGE THIS TO YOUR OWN PASSWORD
+BASE_ACCOUNT = "omgovich"  # CHANGE THIS TO ONE'S USERNAME WHOSE FOLLOWER /FOLLOWING YOU WANT TO FOLLOW
+FOLLOWERS_OR_FOLLOWING = "followers"  # CHOOSE WHAT TO CLONE FOLLOWERS OR FOLLOWING
+
+github_bot = GithubFollower(CHROME_DRIVER_PATH)
+github_bot.login(USERNAME, PASSWORD)
+github_bot.follow(BASE_ACCOUNT, FOLLOWERS_OR_FOLLOWING.lower())
