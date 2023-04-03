@@ -81,6 +81,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
 - :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
 - :white_check_mark: [Day 052](Days-51-to-60/Day-52): Github Follower Bot
+- :white_check_mark: [Day 053](Days-51-to-60/Day-53): Data Entry Job Automation
 
 
 # Contact <br>
