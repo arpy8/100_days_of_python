@@ -82,12 +82,14 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
 - :white_check_mark: [Day 052](Days-51-to-60/Day-52): Github Follower Bot
 - :white_check_mark: [Day 053](Days-51-to-60/Day-53): Data Entry Job Automation
+- :white_check_mark: [Day 054](Days-51-to-60/Day-54): Introduction to web development with Flask
+- :white_check_mark: [Day 055](Days-51-to-60/Day-55): HTML & URL parsing in Flask
 
 
 # Contact <br>
 If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via email at arpitsengar99@gmail.com or connect with me on <a href="https://www.linkedin.com/in/arpit-sengar-924669235/">Linkedin</a>.
 <br>
 Here's my <a href="https://linktr.ee/arpitwastaken">Linktree</a>
-<br>
+<br5
 
 Happy coding!
