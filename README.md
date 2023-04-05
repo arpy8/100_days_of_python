@@ -14,9 +14,8 @@ Throughout this challenge, I will cover a range of Python topics, including:
         <li>Basic syntax and data types</li>
         <li>Control flow statements (if/else, for/while loops)</li>
         <li>Functions and modules</li>
-        <li>Functions and modules</li>
         <li>Object-oriented programming</li>
-        <li>Basic Web development</li>
+        <li>Web development</li>
         <li>Data analysis with Pandas and NumPy</li>
         <li>Machine learning with Scikit-learn</li>
     </ul>
@@ -80,10 +79,11 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn 
 - :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
 - :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
-- :white_check_mark: [Day 052](Days-51-to-60/Day-52): Github Follower Bot
+- :white_check_mark: [Day 052](Days-51-to-60/Day-52): GitHub Follower Bot
 - :white_check_mark: [Day 053](Days-51-to-60/Day-53): Data Entry Job Automation
 - :white_check_mark: [Day 054](Days-51-to-60/Day-54): Introduction to web development with Flask
 - :white_check_mark: [Day 055](Days-51-to-60/Day-55): HTML & URL parsing in Flask
+- :white_check_mark: [Day 056](Days-51-to-60/Day-56): Rendering HTML/Static Files and Using Website Templates
 
 
 # Contact <br>
