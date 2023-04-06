@@ -84,6 +84,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 054](Days-51-to-60/Day-54): Introduction to web development with Flask
 - :white_check_mark: [Day 055](Days-51-to-60/Day-55): HTML & URL parsing in Flask
 - :white_check_mark: [Day 056](Days-51-to-60/Day-56): Rendering HTML/Static Files and Using Website Templates
+- :white_check_mark: [Day 057](Days-51-to-60/Day-57): Templating with Jinja in Flask Applications
 
 
 # Contact <br>
