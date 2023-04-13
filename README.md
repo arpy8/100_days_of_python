@@ -86,7 +86,10 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 056](Days-51-to-60/Day-56): Rendering HTML/Static Files and Using Website Templates
 - :white_check_mark: [Day 057](Days-51-to-60/Day-57): Templating with Jinja in Flask Applications
 - :white_check_mark: [Day 058](Days-51-to-60/Day-58): Web Foundation : Bootstrap
-- :white_check_mark: [Day 059](Days-51-to-60/Day-59): Blogging website using Flask
+
+## 😼 Advanced 
+- :white_check_mark: [Day 059](Days-51-to-60/Day-59-and-60): Blogging website using Flask
+- :white_check_mark: [Day 060](Days-51-to-60/Day-59-and-60): Adding HTML forms to Blogging website
 
 
 # Contact <br>
