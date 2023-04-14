@@ -91,6 +91,10 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 059](Days-51-to-60/Day-59-and-60): Blogging website using Flask
 - :white_check_mark: [Day 060](Days-51-to-60/Day-59-and-60): Adding HTML forms to Blogging website
 
+[//]: # (- :white_check_mark: [Day 061]&#40;Days-61-to-70/Day-61&#41;: Building advanced forms using WTForms)
+
+- :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
+
 
 # Contact <br>
 If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via email at arpitsengar99@gmail.com or connect with me on <a href="https://www.linkedin.com/in/arpit-sengar-924669235/">Linkedin</a>.
