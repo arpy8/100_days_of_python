@@ -94,6 +94,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 [//]: # (- :white_check_mark: [Day 061]&#40;Days-61-to-70/Day-61&#41;: Building advanced forms using WTForms)
 
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
+- :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 
 
 # Contact <br>
