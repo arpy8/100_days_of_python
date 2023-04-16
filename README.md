@@ -95,6 +95,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
+- :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
 
 
 # Contact <br>
