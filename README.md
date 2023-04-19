@@ -97,11 +97,12 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
 - :white_check_mark: [Day 074](Days-71-to-80/Day-74): Google Trends Data: Resampling and Visualising Time Series 
+- :white_check_mark: [Day 075](Days-71-to-80/Day-75): Analysing the Android App Store &  Plotting Beautiful Plotly Charts 
 
 
 # Contact <br>
 If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via email at arpitsengar99@gmail.com or connect with me on <a href="https://www.linkedin.com/in/arpit-sengar-924669235/">Linkedin</a>.
 <br>
-Here's my <a href="https://linktr.ee/arpitwastaken">Linktree</a>
+Here's my <a href="https://linktr.ee/arpitwastaken">Linktree</a>    
 
 Happy coding!
