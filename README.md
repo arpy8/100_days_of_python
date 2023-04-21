@@ -99,6 +99,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 074](Days-71-to-80/Day-74): Google Trends Data: Resampling and Visualising Time Series 
 - :white_check_mark: [Day 075](Days-71-to-80/Day-75): Analysing the Android App Store &  Plotting Beautiful Plotly Charts 
 - :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays 
+- :white_check_mark: [Day 077](Days-71-to-80/Day-77): Linear Regression and Data Visualization with Seaborn
 
 
 # Contact <br>
