@@ -101,6 +101,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays 
 - :white_check_mark: [Day 077](Days-71-to-80/Day-77): Linear Regression and Data Visualization with Seaborn
 - :white_check_mark: [Day 078](Days-71-to-80/Day-78): Analyzing the Nobel Prize with Plotly, Matplotlib a& Seaborn
+- :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions
 
 
 # Contact <br>
