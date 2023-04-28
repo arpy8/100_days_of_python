@@ -1,0 +1,25 @@
+body {
+    background-color: #EAF6F6 ;  
+    color: #59C1BD;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 125%;
+}
+
+
+h1, h3 {
+    font-family: 'Times New Roman';
+    font: bold;
+    color: #0D4C92;
+}
+
+hr {
+    border-style: none;
+    border-top: 5px dotted #A0E4CB;
+    width: 5%
+}
+
+/* h3 {
+    font: bold;
+    color: #A2B3467;
+} */
