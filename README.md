@@ -101,8 +101,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 078](Days-71-to-80/Day-78): Analyzing the Nobel Prize with Plotly, Matplotlib a& Seaborn
 - :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions
 - :white_check_mark: [Day 080](Days-71-to-80/Day-80): Predicting House Prices using Multivariable Regression
-- :white_check_mark: [Day 081](Days-81-to-90/Day-81): Predicting House Prices using Multivariable Regression
-- :white_check_mark: [Day 082](Days-81-to-90/Day-82): Creating a personal portfolio website
+- :white_check_mark: [Day 081](Days-81-to-90/Day-81): String to Morse Code Convertor
+- :white_check_mark: [Day 082](Days-81-to-90/Day-82): Creating a Personal Portfolio Website
 
 
 # Contact <br>
