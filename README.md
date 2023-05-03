@@ -107,8 +107,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 
 
 # Contact <br>
-If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via email at arpitsengar99@gmail.com or connect with me on <a href="https://www.linkedin.com/in/arpit-sengar-924669235/">Linkedin</a>.
-<br>
-Here's my <a href="https://linktr.ee/arpitwastaken">Linktree</a>    
+If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via my [email](mailto:arpitsengar99@gmail.com).
+
+Connect with me on other platforms: [Linktree](https://linktr.ee/arpitwastaken)
 
 Happy coding!
