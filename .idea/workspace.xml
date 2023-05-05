@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af135122-2ae7-48af-a84c-c6fb7c89b45a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/100_days_of_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_of_python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-83/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-83/variables.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/iWatermark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_image_watermarked.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_watermark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-85/typing_speed_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/BreakOutGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/ball.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/brick.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/brick.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PN01E2hLZO9TqtSXci12GzqiUX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/asus/Desktop/repos/100_days_of_python"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af135122-2ae7-48af-a84c-c6fb7c89b45a" name="Changes" comment="" />
+      <created>1683282014052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683282014052</updated>
+    </task>
+    <servers />
+  </component>
+</project>
