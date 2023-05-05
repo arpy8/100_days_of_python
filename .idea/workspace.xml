@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af135122-2ae7-48af-a84c-c6fb7c89b45a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100_days_of_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100_days_of_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-83/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-83/variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/assets/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/iWatermark.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_image_watermarked.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-84/Image Watermarking Desktop App/sample/sample_watermark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-85/typing_speed_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/BreakOutGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/ball.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/brick.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/brick.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Days-81-to-90/Day-86/breakout-game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="af135122-2ae7-48af-a84c-c6fb7c89b45a" name="Changes" comment="moved files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +34,37 @@
       <option name="presentableId" value="Default" />
       <updated>1683282014052</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 86 completed">
+      <created>1683282189970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683282189970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="moved files">
+      <created>1683282224061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683282224061</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 86 completed" />
+    <MESSAGE value="moved files" />
+    <option name="LAST_COMMIT_MESSAGE" value="moved files" />
   </component>
 </project>
