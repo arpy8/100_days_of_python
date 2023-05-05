@@ -105,6 +105,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 082](Days-81-to-90/Day-82): Creating a Personal Portfolio Website
 - :white_check_mark: [Day 083](Days-81-to-90/Day-83): Tic Tac Toe in Python
 - :white_check_mark: [Day 084](Days-81-to-90/Day-84): Image Watermarking Desktop App
+- :white_check_mark: [Day 085](Days-81-to-90/Day-85): Typing Speed Test GUI Application
 
 
 # Contact <br>
