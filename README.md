@@ -1,14 +1,20 @@
 ![Banner](assets/banner.png)
+
 # 100 Days of Python Challenge <br>
-Welcome to my 100 Days of Python challenge! This is a personal project where I commit to coding in Python every day for 100 days straight, with the aim of improving my skills and becoming a better programmer.
+
+Welcome to my 100 Days of Python challenge! This is a personal project where I commit to coding in Python every day for
+100 days straight, with the aim of improving my skills and becoming a better programmer.
 <br>
 
 # Project Structure <br>
+
 /Day-X - Each day has its own directory, containing a Python script with my code for that day.
-README.md - This file, where you are right now, is the main documentation for the project. It includes an overview of the project structure, a list of the topics covered each day, and any additional notes or thoughts.
+README.md - This file, where you are right now, is the main documentation for the project. It includes an overview of
+the project structure, a list of the topics covered each day, and any additional notes or thoughts.
 <br>
 
 # Topics Covered <br>
+
 Throughout this challenge, I will cover a range of Python topics, including:
   <ul>
         <li>Basic syntax and data types</li>
@@ -21,18 +27,22 @@ Throughout this challenge, I will cover a range of Python topics, including:
     </ul>
 
 # Getting Started <br>
-If you'd like to participate in the challenge, feel free to fork this repository and start your own 100 Days of Python project. You can customize the project structure and topics covered to suit your own interests and goals.
+
+If you'd like to participate in the challenge, feel free to fork this repository and start your own 100 Days of Python
+project. You can customize the project structure and topics covered to suit your own interests and goals.
 
 Alternatively, you can simply follow along with my progress by browsing the code in each day's directory.
 <br>
 
 ## 👨🏻‍🎓 Beginner
-- :white_check_mark: [Day 001](Days-1-to-10/Day-1): Band Name Generator 
+
+- :white_check_mark: [Day 001](Days-1-to-10/Day-1): Band Name Generator
 - :white_check_mark: [Day 002](Days-1-to-10/Day-2): Tip Calculator
 - :white_check_mark: [Day 003](Days-1-to-10/Day-3): Treasure Island
 - :white_check_mark: [Day 004](Days-1-to-10/Day-4): Rock, Paper, Scissors Game
 - :white_check_mark: [Day 005](Days-1-to-10/Day-5): Random Password Generator
-- :white_check_mark: [Day 005](Days-1-to-10/Day-6): Completed the maze challenge on [Reeborg's World](https://reeborg.ca/index_en.html)
+- :white_check_mark: [Day 005](Days-1-to-10/Day-6): Completed the maze challenge
+  on [Reeborg's World](https://reeborg.ca/index_en.html)
 - :white_check_mark: [Day 007](Days-1-to-10/Day-7): Hangman Game
 - :white_check_mark: [Day 008](Days-1-to-10/Day-8): Caesar Cipher
 - :white_check_mark: [Day 009](Days-1-to-10/Day-9): Blind Auction
@@ -43,6 +53,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 014](Days-11-to-21/Day-14): Higher Lower Game
 
 ## 🏋🏻‍♂ Intermediate
+
 - :white_check_mark: [Day 015](Days-11-to-21/Day-15): Coffee Machine
 - :white_check_mark: [Day 016](Days-11-to-21/Day-16): Coffee Machine in OOP
 - :white_check_mark: [Day 017](Days-11-to-21/Day-17): CLI Quiz App
@@ -59,7 +70,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 029](Days-22-to-30/Day-29): Password Manager App
 - :white_check_mark: [Day 030](Days-22-to-30/Day-30): Password Manager App (continued)
 - :white_check_mark: [Day 031](Days-31-to-40/Day-31): Flash Card Capstone Project
-- :white_check_mark: [Day 032](Days-31-to-40/Day-32): Automated Birthday Wisher 
+- :white_check_mark: [Day 032](Days-31-to-40/Day-32): Automated Birthday Wisher
 - :white_check_mark: [Day 033](Days-31-to-40/Day-33): Iss Overhead Notifier
 - :white_check_mark: [Day 034](Days-31-to-40/Day-34): Quizler App
 - :white_check_mark: [Day 035](Days-31-to-40/Day-35): Daily Rain Checker
@@ -69,15 +80,17 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 039 and 040](Days-31-to-40/Days-39-and-40): Cheap Flight Searcher (incomplete)
 - :white_check_mark: [Day 041 and 042](Days-41-to-50/Days-41-and-42): Personal Website
 - :white_check_mark: [Day 043](Days-41-to-50/Day-43): Bacon Website (Basics of CSS)
-- :white_check_mark: [Day 044](Days-41-to-50/Day-44): Updated version of [Personal Website](https://arpitsengar99.github.io/)
+- :white_check_mark: [Day 044](Days-41-to-50/Day-44): Updated version
+  of [Personal Website](https://arpitsengar99.github.io/)
 
-## 💪 Intermediate+ 
+## 💪 Intermediate+
+
 - :white_check_mark: [Day 045](Days-41-to-50/Day-45): Web Scraping from live website
 - :white_check_mark: [Day 046](Days-41-to-50/Day-46): Music time machine
 - :white_check_mark: [Day 047](Days-41-to-50/Day-47): Amazon Price Tracker
 - :white_check_mark: [Day 048](Days-41-to-50/Day-48): Cookie Clicker Project
-- :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn 
-- :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot 
+- :white_check_mark: [Day 049](Days-41-to-50/Day-49): Automating job applications on LinkedIn
+- :white_check_mark: [Day 050](Days-41-to-50/Day-50): Auto Tinder Swiping Bot
 - :white_check_mark: [Day 051](Days-51-to-60/Day-51): Internet Speed Twitter Complaint Bot
 - :white_check_mark: [Day 052](Days-51-to-60/Day-52): GitHub Follower Bot
 - :white_check_mark: [Day 053](Days-51-to-60/Day-53): Data Entry Job Automation
@@ -87,16 +100,17 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 057](Days-51-to-60/Day-57): Templating with Jinja in Flask Applications
 - :white_check_mark: [Day 058](Days-51-to-60/Day-58): Web Foundation : Bootstrap
 
-## 😼 Advanced 
+## 😼 Advanced
+
 - :white_check_mark: [Day 059](Days-51-to-60/Day-59-and-60): Blogging website using Flask
 - :white_check_mark: [Day 060](Days-51-to-60/Day-59-and-60): Adding HTML forms to Blogging website
 - :white_check_mark: [Day 061](Days-61-to-70/Day-61): Building advanced forms using WTForms
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
-- :white_check_mark: [Day 074](Days-71-to-80/Day-74): Google Trends Data: Resampling and Visualising Time Series 
-- :white_check_mark: [Day 075](Days-71-to-80/Day-75): Analysing the Android App Store &  Plotting Beautiful Plotly Charts 
-- :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays 
+- :white_check_mark: [Day 074](Days-71-to-80/Day-74): Google Trends Data: Resampling and Visualising Time Series
+- :white_check_mark: [Day 075](Days-71-to-80/Day-75): Analysing the Android App Store & Plotting Beautiful Plotly Charts
+- :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays
 - :white_check_mark: [Day 077](Days-71-to-80/Day-77): Linear Regression and Data Visualization with Seaborn
 - :white_check_mark: [Day 078](Days-71-to-80/Day-78): Analyzing the Nobel Prize with Plotly, Matplotlib a& Seaborn
 - :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions
@@ -106,10 +120,12 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 083](Days-81-to-90/Day-83): Tic Tac Toe in Python
 - :white_check_mark: [Day 084](Days-81-to-90/Day-84): Image Watermarking Desktop App
 - :white_check_mark: [Day 085](Days-81-to-90/Day-85): Typing Speed Test GUI Application
-
+- :white_check_mark: [Day 086](Days-81-to-90/Day-86): Breakout Game on Turtle
 
 # Contact <br>
-If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You can reach me via my [email](mailto:arpitsengar99@gmail.com).
+
+If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You
+can reach me via my [email](mailto:arpitsengar99@gmail.com).
 
 Connect with me on other platforms: [Linktree](https://linktr.ee/arpitwastaken)
 
