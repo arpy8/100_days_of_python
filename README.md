@@ -121,6 +121,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 084](Days-81-to-90/Day-84): Image Watermarking Desktop App
 - :white_check_mark: [Day 085](Days-81-to-90/Day-85): Typing Speed Test GUI Application
 - :white_check_mark: [Day 086](Days-81-to-90/Day-86): Breakout Game on Turtle
+- :white_check_mark: [Day 087](Days-81-to-90/Day-87): Simple Cafe Finding Website
 
 # Contact <br>
 
