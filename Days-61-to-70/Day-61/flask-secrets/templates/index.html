@@ -1,24 +1,16 @@
-<!DOCTYPE HTML>
+{% extends 'bootstrap/base.html' %}
 
-<html>
-	<head>
-		<title>Login</title>
-	</head>
-	<body>
-    	<div class="container">
-			<form action="" method="post" name="post">
-					<p>
-							{{ form.username.label }} <br>
-							{{ form.username(size=30) }}
-					</p>
-					<p>
-							{{ form.password.label }} <br>
-							{{ form.password(size=30) }}
-					</p>
-					<p>
-							{{ form.submit() }}
-					</p>
-			</form>
-		</div>
-	</body>
-</html>
+{% block title %}
+Secrets
+{% endblock %}
+
+{% block content %}
+
+<div class="jumbotron">
+    <div class="container">
+    <h1>Welcome</h1>
+    <p>Are you ready to discover my secret?</p>
+    <button class="btn btn-primary btn-lg" href=" {{ url_for('login') }} ">Login</button>
+    </div>
+</div>
+{% endblock %}
