@@ -108,7 +108,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 062](Days-61-to-70/Day-62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - :white_check_mark: [Day 063](Days-61-to-70/Day-63): Databases with SQLite and SQLAlchemy
 - :white_check_mark: [Day 064](Days-61-to-70/Day-64): My Top 10 Movies Website
-   <br><br>
+- :white_check_mark: [Day 065](Days-61-to-70/Day-65): How to Create a Website That People Will Love   <br><br>
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
