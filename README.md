@@ -107,8 +107,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 061](Days-61-to-70/Day-61): Building advanced forms using WTForms
 - :white_check_mark: [Day 062](Days-61-to-70/Day-62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - :white_check_mark: [Day 063](Days-61-to-70/Day-63): Databases with SQLite and SQLAlchemy
-
-
+- :white_check_mark: [Day 064](Days-61-to-70/Day-64): My Top 10 Movies Website
+   <br><br>
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
@@ -117,9 +117,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays
 - :white_check_mark: [Day 077](Days-71-to-80/Day-77): Linear Regression and Data Visualization with Seaborn
 - :white_check_mark: [Day 078](Days-71-to-80/Day-78): Analyzing the Nobel Prize with Plotly, Matplotlib a& Seaborn
-- :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions
-
-
+- :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions  
+   <br><br>
 - :white_check_mark: [Day 080](Days-71-to-80/Day-80): Predicting House Prices using Multivariable Regression
 - :white_check_mark: [Day 081](Days-81-to-90/Day-81): String to Morse Code Convertor
 - :white_check_mark: [Day 082](Days-81-to-90/Day-82): Creating a Personal Portfolio Website
