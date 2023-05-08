@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af135122-2ae7-48af-a84c-c6fb7c89b45a" name="Changes" comment="moved files">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/Day-61.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/Day-61/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days-61-to-70/note.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +29,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/asus/Desktop/repos/100_days_of_python"
+    "last_opened_file_path": "C:/Users/asus/Desktop/repos/100_days_of_python/Days-61-to-70/Day-63"
   }
 }]]></component>
   <component name="RunManager">
