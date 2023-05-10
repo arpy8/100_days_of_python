@@ -102,8 +102,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 
 ## 😼 Advanced
 
-- :white_check_mark: [Day 059](Days-51-to-60/Day-59-and-60): Blogging website using Flask
-- :white_check_mark: [Day 060](Days-51-to-60/Day-59-and-60): Adding HTML forms to Blogging website
+- :white_check_mark: [Day 059](Days-51-to-60/Day-59-and-60): Blog Capstone Project Part 4 - Adding Users
+- :white_check_mark: [Day 060](Days-51-to-60/Day-59-and-60): Make POST Requests with Flask and HTML Forms
 - :white_check_mark: [Day 061](Days-61-to-70/Day-61): Building advanced forms using WTForms
 - :white_check_mark: [Day 062](Days-61-to-70/Day-62): Flask, WTForms, Bootstrap and CSV - Coffee & Wifi Project
 - :white_check_mark: [Day 063](Days-61-to-70/Day-63): Databases with SQLite and SQLAlchemy
@@ -111,7 +111,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 065](Days-61-to-70/Day-65): How to Create a Website That People Will Love
 - :white_check_mark: [Day 066](Days-61-to-70/Day-66): Building Your Own API with RESTful Routing
 - :white_check_mark: [Day 067](Days-61-to-70/Day-67): Blog Capstone Project Part 3 - RESTful Routing 
-- :white_check_mark: [Day 068](Days-61-to-70/Day-68): Authentication with Flask <br><br>
+- :white_check_mark: [Day 068](Days-61-to-70/Day-68): Authentication with Flask
+- :white_check_mark: [Day 069](Days-61-to-70/Day-69): Blog Capstone Project Part 4 - Adding Users <br><br>
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
