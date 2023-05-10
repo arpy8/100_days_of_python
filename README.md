@@ -112,7 +112,8 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 066](Days-61-to-70/Day-66): Building Your Own API with RESTful Routing
 - :white_check_mark: [Day 067](Days-61-to-70/Day-67): Blog Capstone Project Part 3 - RESTful Routing 
 - :white_check_mark: [Day 068](Days-61-to-70/Day-68): Authentication with Flask
-- :white_check_mark: [Day 069](Days-61-to-70/Day-69): Blog Capstone Project Part 4 - Adding Users <br><br>
+- :white_check_mark: [Day 069](Days-61-to-70/Day-69): Blog Capstone Project Part 4 - Adding Users
+- :white_check_mark: [Day 069](Days-61-to-70/Day-69): Deploying Your Web Application with Heroku <br><br>
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
