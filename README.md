@@ -6,33 +6,53 @@ Welcome to my 100 Days of Python challenge! This is a personal project where I c
 100 days straight, with the aim of improving my skills and becoming a better programmer.
 <br>
 
-# Project Structure <br>
+Course Link : [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
-/Day-X - Each day has its own directory, containing a Python script with my code for that day.
-README.md - This file, where you are right now, is the main documentation for the project. It includes an overview of
+## Project Structure <br>
+
+/Day-X : Each day has its own directory, containing a Python script with my code for that day.
+README.md - This file, where you are right now, it is the main documentation for the project. It includes an overview of
 the project structure, a list of the topics covered each day, and any additional notes or thoughts.
 <br>
 
-# Topics Covered <br>
+## Tools and Technologies Covered
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Requests
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
 
-Throughout this challenge, I will cover a range of Python topics, including:
-  <ul>
-        <li>Basic syntax and data types</li>
-        <li>Control flow statements (if/else, for/while loops)</li>
-        <li>Functions and modules</li>
-        <li>Object-oriented programming</li>
-        <li>Web development</li>
-        <li>Data analysis with Pandas and NumPy</li>
-        <li>Machine learning with Scikit-learn</li>
-    </ul>
-
-# Getting Started <br>
-
-If you'd like to participate in the challenge, feel free to fork this repository and start your own 100 Days of Python
-project. You can customize the project structure and topics covered to suit your own interests and goals.
-
-Alternatively, you can simply follow along with my progress by browsing the code in each day's directory.
-<br>
 
 ## 👨🏻‍🎓 Beginner
 
@@ -136,12 +156,12 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 087](Days-81-to-90/Day-87): Simple Cafe Finding Website
 - :white_check_mark: [Day 088](Days-81-to-90/Day-88): Todo list website
 - :white_check_mark: [Day 089](Days-81-to-90/Day-89): Disappearing Text Writing App
+- :white_check_mark: [Day 090](Days-81-to-90/Day-90): Convert PDF to Audiobook
 
-# Contact <br>
+## Contact <br>
 
 If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You
 can reach me via my [email](mailto:arpitsengar99@gmail.com).
 
 Connect with me on other platforms: [Linktree](https://linktr.ee/arpitwastaken)
-
 Happy coding!
