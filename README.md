@@ -135,6 +135,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 086](Days-81-to-90/Day-86): Breakout Game on Turtle
 - :white_check_mark: [Day 087](Days-81-to-90/Day-87): Simple Cafe Finding Website
 - :white_check_mark: [Day 088](Days-81-to-90/Day-88): Todo list website
+- :white_check_mark: [Day 089](Days-81-to-90/Day-89): Disappearing Text Writing App
 
 # Contact <br>
 
