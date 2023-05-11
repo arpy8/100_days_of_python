@@ -70,6 +70,9 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 029](Days-22-to-30/Day-29): Password Manager App
 - :white_check_mark: [Day 030](Days-22-to-30/Day-30): Password Manager App (continued)
 - :white_check_mark: [Day 031](Days-31-to-40/Day-31): Flash Card Capstone Project
+
+## 💪 Intermediate+
+
 - :white_check_mark: [Day 032](Days-31-to-40/Day-32): Automated Birthday Wisher
 - :white_check_mark: [Day 033](Days-31-to-40/Day-33): Iss Overhead Notifier
 - :white_check_mark: [Day 034](Days-31-to-40/Day-34): Quizler App
@@ -82,9 +85,6 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 043](Days-41-to-50/Day-43): Bacon Website (Basics of CSS)
 - :white_check_mark: [Day 044](Days-41-to-50/Day-44): Updated version
   of [Personal Website](https://arpitsengar99.github.io/)
-
-## 💪 Intermediate+
-
 - :white_check_mark: [Day 045](Days-41-to-50/Day-45): Web Scraping from live website
 - :white_check_mark: [Day 046](Days-41-to-50/Day-46): Music time machine
 - :white_check_mark: [Day 047](Days-41-to-50/Day-47): Amazon Price Tracker
@@ -113,7 +113,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 067](Days-61-to-70/Day-67): Blog Capstone Project Part 3 - RESTful Routing 
 - :white_check_mark: [Day 068](Days-61-to-70/Day-68): Authentication with Flask
 - :white_check_mark: [Day 069](Days-61-to-70/Day-69): Blog Capstone Project Part 4 - Adding Users
-- :white_check_mark: [Day 069](Days-61-to-70/Day-69): Deploying Your Web Application with Heroku <br><br>
+- :white_check_mark: [Day 070](Days-61-to-70/Day-70): Deploying Your Web Application with Heroku
 - :white_check_mark: [Day 071](Days-71-to-80/Day-71): Data Exploration with Pandas
 - :white_check_mark: [Day 072](Days-71-to-80/Day-72): Data Visualization using Matplotlib
 - :white_check_mark: [Day 073](Days-71-to-80/Day-73): Aggregating and Merging Data using Pandas on LEGO Dataset
@@ -122,8 +122,11 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 076](Days-71-to-80/Day-76): Computation with NumPy and N Dimensional Arrays
 - :white_check_mark: [Day 077](Days-71-to-80/Day-77): Linear Regression and Data Visualization with Seaborn
 - :white_check_mark: [Day 078](Days-71-to-80/Day-78): Analyzing the Nobel Prize with Plotly, Matplotlib a& Seaborn
-- :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions <br><br>
+- :white_check_mark: [Day 079](Days-71-to-80/Day-79): The Tragic discovery of Hand-washing: t-Tests & Distributions
 - :white_check_mark: [Day 080](Days-71-to-80/Day-80): Predicting House Prices using Multivariable Regression
+
+## ⚔ Professional Portfolio Projects
+
 - :white_check_mark: [Day 081](Days-81-to-90/Day-81): String to Morse Code Convertor
 - :white_check_mark: [Day 082](Days-81-to-90/Day-82): Creating a Personal Portfolio Website
 - :white_check_mark: [Day 083](Days-81-to-90/Day-83): Tic Tac Toe in Python
