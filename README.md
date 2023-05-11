@@ -84,7 +84,7 @@ Alternatively, you can simply follow along with my progress by browsing the code
 - :white_check_mark: [Day 041 and 042](Days-41-to-50/Days-41-and-42): Personal Website
 - :white_check_mark: [Day 043](Days-41-to-50/Day-43): Bacon Website (Basics of CSS)
 - :white_check_mark: [Day 044](Days-41-to-50/Day-44): Updated version
-  of [Personal Website](https://arpitsengar99.github.io/)
+  of [Personal Website](https://arpy8.github.io/)
 - :white_check_mark: [Day 045](Days-41-to-50/Day-45): Web Scraping from live website
 - :white_check_mark: [Day 046](Days-41-to-50/Day-46): Music time machine
 - :white_check_mark: [Day 047](Days-41-to-50/Day-47): Amazon Price Tracker
