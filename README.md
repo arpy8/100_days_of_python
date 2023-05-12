@@ -157,6 +157,7 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 088](Days-81-to-90/Day-88): Todo list website
 - :white_check_mark: [Day 089](Days-81-to-90/Day-89): Disappearing Text Writing App
 - :white_check_mark: [Day 090](Days-81-to-90/Day-90): Convert PDF to Audiobook
+- :white_check_mark: [Day 091](Days-91-to-100/Day-91): Image Colour Palette Generator
 
 ## Contact <br>
 
