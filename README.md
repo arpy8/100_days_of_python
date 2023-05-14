@@ -159,6 +159,7 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 090](Days-81-to-90/Day-90): Convert PDF to Audiobook
 - :white_check_mark: [Day 091](Days-91-to-100/Day-91): Image Colour Palette Generator
 - :white_check_mark: [Day 092](Days-91-to-100/Day-92): Custom Web Scraper 
+- :white_check_mark: [Day 093](Days-91-to-100/Day-93): Custom Web Scraper 
 
 ## Contact <br>
 
