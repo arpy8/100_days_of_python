@@ -161,6 +161,8 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 092](Days-91-to-100/Day-92): Custom Web Scraper 
 - :white_check_mark: [Day 093](Days-91-to-100/Day-93): Automating the Google Dinosaur Game
 - :white_check_mark: [Day 094](Days-91-to-100/Day-94): Space Invaders Game
+- :white_check_mark: [Day 095](Days-91-to-100/Day-95): Custom API based Website
+- :white_check_mark: [Day 096](Days-91-to-100/Day-96): An Online Shop
 
 ## Contact <br>
 
