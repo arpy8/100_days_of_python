@@ -164,6 +164,7 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 095](Days-91-to-100/Day-95): Custom API based Website
 - :white_check_mark: [Day 096](Days-91-to-100/Day-96): An Online Shop
 - :white_check_mark: [Day 097](Days-91-to-100/Day-97): Percentage Calculator
+- :white_check_mark: [Day 098](Days-91-to-100/Day-98): Analyzing and Visualizing the Space Race
 
 ## Contact <br>
 
