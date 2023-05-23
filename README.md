@@ -166,6 +166,7 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 097](Days-91-to-100/Day-97): Percentage Calculator
 - :white_check_mark: [Day 098](Days-91-to-100/Day-98): Analyzing and Visualizing the Space Race
 - :white_check_mark: [Day 099](Days-91-to-100/Day-99): Examining Deaths Involving Police in the United States
+- :white_check_mark: [Day 100](Days-91-to-100/Day-100): Predicting Earnings using Multivariable Regression
 
 ## Contact <br>
 
