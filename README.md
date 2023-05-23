@@ -168,9 +168,4 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 099](Days-91-to-100/Day-99): Examining Deaths Involving Police in the United States
 
 ## Contact <br>
-
-If you have any questions, comments, or feedback about this project, please don't hesitate to get in touch with me. You
-can reach me via my [email](mailto:arpitsengar99@gmail.com).
-
-Connect with me on other platforms: [Linktree](https://linktr.ee/arpitwastaken)
-Happy coding!
+[Linktree](https://linktr.ee/arpitwastaken)
