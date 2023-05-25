@@ -168,5 +168,9 @@ the project structure, a list of the topics covered each day, and any additional
 - :white_check_mark: [Day 099](Days-91-to-100/Day-99): Examining Deaths Involving Police in the United States
 - :white_check_mark: [Day 100](Days-91-to-100/Day-100): Predicting Earnings using Multivariable Regression
 
+## Certificate
+![certificate](assets/certificate.jpg)
+
 ## Contact <br>
+Feel free to connect with me on other platforms: 
 [Linktree](https://linktr.ee/arpitwastaken)
